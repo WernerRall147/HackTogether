@@ -1,0 +1,17 @@
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\bin\Debug\net7.0-windows\GraphMDE.exe
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\bin\Debug\net7.0-windows\GraphMDE.deps.json
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\bin\Debug\net7.0-windows\GraphMDE.runtimeconfig.json
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\bin\Debug\net7.0-windows\GraphMDE.dll
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\bin\Debug\net7.0-windows\GraphMDE.pdb
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.csproj.AssemblyReference.cache
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.Form1.resources
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.csproj.GenerateResource.cache
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.AssemblyInfoInputs.cache
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.AssemblyInfo.cs
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.csproj.CoreCompileInputs.cache
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.dll
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\refint\GraphMDE.dll
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.pdb
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\GraphMDE.genruntimeconfig.cache
+C:\Users\weral\Git\HackTogether\GraphMDE\GraphMDE\obj\Debug\net7.0-windows\ref\GraphMDE.dll
